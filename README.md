@@ -1,6 +1,3 @@
-# Titanic_Project-using-ML
-
-
 # Titanic Survival Prediction Using Machine Learning
 
 ## Overview
